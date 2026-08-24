@@ -1,0 +1,21 @@
+.gitignore
+  s_2f3dcdaf3909cb::t_efd45dfc340713 7-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fb1e0ebb1fbc46eeeee0cf7dd0822925c1360aab",
+  "prompts": {},
+  "sessions": {
+    "s_2f3dcdaf3909cb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a032e5-557c-7e73-b021-d36f7bd8724b",
+        "model": "unknown"
+      },
+      "human_author": "huoyanchao <huoyanchao@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
